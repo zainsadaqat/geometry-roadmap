@@ -1,4 +1,4 @@
-# Geometry Mastery for Teaching Roadmap
+# Geometry Roadmap
 
 This roadmap is designed to guide you through mastering geometry concepts, with a focus on preparing you to teach at Grade 9, Grade 10, and A-level.
 
